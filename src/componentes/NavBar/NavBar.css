@@ -1,0 +1,29 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+header {
+    padding-bottom: 10px;
+    padding-top: 10px;
+    display: flex;
+    background-color: rgb(198, 151, 116);
+    color: rgb(255, 255, 255);
+    align-items: center;
+    justify-content: space-around;
+}
+
+li {
+    display: inline-block;
+    margin: 1rem;
+    cursor: pointer;
+    color: rgb(242, 242, 242);
+    
+}
+
+.titulo{
+    color: rgb(252, 252, 252);
+    font-family: 'EB Garamond', serif;
+    font-size: 20px
+}
+
+
